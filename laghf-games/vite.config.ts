@@ -42,7 +42,7 @@ export default defineConfig({
 			} ]
 		})
 	],
-	base,
+	base: '/UNLOCKED.games/',
 	define: {
 		"PRODUCTION": process.env.NODE_ENV?.toLowerCase() === "production",
 		"APP_MANIFEST": {
