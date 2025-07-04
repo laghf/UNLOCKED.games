@@ -1,4 +1,4 @@
-# Deployment Guide for LAGHF Games
+# Deployment Guide for LAGHF Gamez
 
 ## Quick Start
 
